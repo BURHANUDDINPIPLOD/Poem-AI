@@ -8,6 +8,12 @@ The Poem Generator is an AI-powered application that generates poetry inspired b
 - **Customizable Styles**: Choose from different poetic styles (e.g., haiku, sonnet, free verse).
 - **Download & Share**: Download the generated poems or share them directly on social platforms.
 
+
+
+https://github.com/user-attachments/assets/53933bbd-fcea-41e1-b5a9-7419963fccc9
+
+
+
 ## Technology Stack
 - **Frontend**: Built using TypeScript and React.
 - **AI Integration**: Powered by Gemini AI for image analysis and poem generation.
